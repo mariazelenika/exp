@@ -9,8 +9,7 @@ p {
 	}
 	
 body {
-	background-image:url(s.jpg);
-	background-attachment: fixed;
+	background-color: #E8E8DD;
 	}
 	
 a:link{color:white;}
